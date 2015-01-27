@@ -1,0 +1,28 @@
+{
+  "name": "gulp-elixir-cssmin",
+  "version": "0.0.1",
+  "description": "Elixir minify css extensions",
+  "main": "index.js",
+  "keywords": [
+    "laravel",
+    "elixir",
+    "csso",
+    "uncss",
+    "gulp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeffreyVdb/gulp-elixir-cssmin"
+  },
+  "author": "Jeffrey Vandenborne",
+  "license": "MIT",
+  "homepage": "https://github.com/JeffreyVdb/gulp-elixir-cssmin",
+  "bugs": {
+    "url": "https://github.com/JeffreyVdb/gulp-elixir-cssmin/issues"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-csso": "^0.2.9",
+    "gulp-if": "^1.2.5"
+  }
+}
